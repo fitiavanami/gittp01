@@ -3,3 +3,56 @@ h1{
     font-size: 50px;
     text-align: center;
 }
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+    position: relative;
+    left: 100px;
+    justify-content: center;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+header nav .icon {
+    font-size: 20px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 10px;
+    position: relative;
+    left: 100px;
+    justify-content: center;
+}
+
+nav ul li a {
+    color: #000000;
+    text-decoration: none;
+}
+
+#select {
+    border: none;
+    font-size: 17px;
+}
+
+.select1 {
+    font-size: 17px;
+}
